@@ -1,0 +1,61 @@
+.nav{
+   
+    font-family: 'Cairo', sans-serif;
+    text-align: center;
+    align-items: center;
+    font-weight: 900;
+    font-family: 'Cairo', sans-serif;
+    direction: rtl;
+    
+}
+.nav-link{
+    
+    margin: 15px;
+}   
+.search{
+    margin-right: 500px;
+    display: flex; direction: ltr;
+}
+.hero1{
+    direction: rtl;
+    font-family: 'Cairo', sans-serif;
+    width: 135px;
+    height: 45px;
+    text-decoration: none;
+    font-size: 2rem;
+    font-weight: 800;
+}
+section{
+    padding: 20px;
+    direction: rtl; 
+    align-items: center;
+    
+    
+}
+.card{
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    position: ltr;   
+    font-family: 'Cairo', sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    
+
+}
+.footer{
+    text-align: center;
+    margin: 20px;
+    font-family: 'Cairo', sans-serif;
+    direction: rtl;
+    word-spacing: 0px;
+     
+}
+a{
+    text-decoration: none;
+    padding: 20px; 
+}
+.rox{
+    padding: 20px;
+}
