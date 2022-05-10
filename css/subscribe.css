@@ -57,6 +57,7 @@ h1 {
     font-family: 'Cairo', sans-serif;
     direction: rtl;
     word-spacing: 0px;
+    padding-top: 500px;
      
 }
 a{
@@ -82,4 +83,16 @@ h5{
     padding-top: 20px;
     margin: 20px;
     font-family: 'Cairo', sans-serif;
+}
+.btn{
+    font-family: 'Cairo', sans-serif;
+    justify-content: center;
+    text-align: center;
+    margin: 30px;
+    justify-items: center;
+    display: flex;
+}
+.btn-secondary{
+    border-color: red;
+    background-color: black;
 }
