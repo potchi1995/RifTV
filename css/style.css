@@ -1,21 +1,21 @@
-.nav{
-   
+.nav{  
     font-family: 'Cairo', sans-serif;
     text-align: center;
     align-items: center;
     font-weight: 900;
     font-family: 'Cairo', sans-serif;
-    direction: rtl;
-    
+    direction: rtl;   
 }
-.nav-link{
-    
+
+.nav-link{   
     margin: 15px;
 }   
+
 .search{
     margin-right: 500px;
     display: flex; direction: ltr;
 }
+
 .hero1{
     direction: rtl;
     font-family: 'Cairo', sans-serif;
