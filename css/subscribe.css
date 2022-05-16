@@ -62,7 +62,8 @@ h1 {
 }
 a{
     text-decoration: none;
-    padding: 20px; 
+    padding: 10px; 
+    
 }
 .rox{
     padding: 50px;
@@ -95,4 +96,35 @@ h5{
 .btn-secondary{
     border-color: red;
     background-color: black;
+}
+.btn1{
+    font-family: 'Cairo', sans-serif;
+    justify-content: center;
+    text-align: center;
+    margin: 30px;
+    justify-items: center;
+    display: flex;
+    width: 450px;
+    padding: 10px;
+    font-size: large;
+    font-weight: bold;
+    font-weight: 29px;
+    background-color: #000;
+    color: white;
+    border-color: #FF2564;
+}
+.btn2{
+    font-family: 'Cairo', sans-serif;
+    justify-content: center;
+    text-align: center;
+    margin: 30px;
+    justify-items: center;
+    display: flex;
+    width: 450px;
+    padding: 10px;
+    font-size: large;
+    font-weight: bold;
+    font-weight: 29px;
+    background-color: #FF2564;
+    color: #ffff;
 }
