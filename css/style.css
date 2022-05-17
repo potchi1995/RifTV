@@ -59,3 +59,15 @@ a{
 .rox{
     padding: 20px;
 }
+h1{
+    font-family: 'Cairo', sans-serif;
+    direction: rtl;
+    color: black; 
+    padding-bottom: 20px;
+}
+p{
+    direction: rtl;
+    font-family: 'Cairo', sans-serif;
+    
+}
+

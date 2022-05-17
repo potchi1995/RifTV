@@ -1,0 +1,33 @@
+.nav{  
+    font-family: 'Cairo', sans-serif;
+    text-align: center;
+    align-items: center;
+    font-weight: 900;
+    font-family: 'Cairo', sans-serif;
+    direction: rtl;   
+}
+
+.nav-link{   
+    margin: 15px;
+}   
+
+.dropdown{
+    margin-right: 500px;
+    display: flex; direction: ltr;
+}
+
+.footer{
+    text-align: center;
+    margin: 20px;
+    font-family: 'Cairo', sans-serif;
+    direction: rtl;
+    word-spacing: 0px;
+     
+}
+a{
+    text-decoration: none;
+    padding: 20px; 
+}
+.rox{
+    padding: 20px;
+}
