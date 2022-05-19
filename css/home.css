@@ -5,15 +5,15 @@
     font-weight: 900;
     font-family: 'Cairo', sans-serif;
     direction: rtl;   
+    font-size: 24px;
 }
 
 .nav-link{   
     margin: 15px;
 }   
 
-.dropdown{
-    margin-right: 500px;
-    display: flex; direction: ltr;
+.search{
+    direction: ltr;
 }
 
 .hero1{
@@ -25,37 +25,75 @@
     font-size: 2rem;
     font-weight: 800;
 }
+
 section{
     padding: 20px;
     direction: rtl; 
     align-items: center;
-    
-    
 }
+
 .card{
     padding: 15px;
     display: flex;
-    align-items: center;
     text-align: right;
     position: ltr;   
     font-family: 'Cairo', sans-serif;
-    font-weight: 500;
     text-decoration: none;
-    
-
 }
+
 .footer{
     text-align: center;
     margin: 20px;
     font-family: 'Cairo', sans-serif;
     direction: rtl;
     word-spacing: 0px;
-     
-}
-a{
     text-decoration: none;
-    padding: 20px; 
+    text-decoration-line: none;
 }
+
+a{
+    padding: 20px;    
+}
+
 .rox{
     padding: 20px;
 }
+
+h1{
+    font-family: 'Cairo', sans-serif;
+    direction: rtl;
+    color: black; 
+    padding-bottom: 20px;
+}
+p{
+    direction: rtl;
+    font-family: 'Cairo', sans-serif;    
+}
+
+.card-text{
+    font-size: 18px;
+}
+
+.cards-wrapper{
+    display: flex;
+}
+
+.card{
+    margin: 0 .5em;
+    width: calc(100%/4);
+    border: none;
+}
+
+.image-wrapper{
+    height: 16vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image-wrapper img{
+    max-width: 100%;
+    max-height: 100%;
+    
+}
+
