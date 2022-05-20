@@ -1,17 +1,16 @@
-.nav{
-   
+.nav{  
     font-family: 'Cairo', sans-serif;
     text-align: center;
     align-items: center;
     font-weight: 900;
     font-family: 'Cairo', sans-serif;
-    direction: rtl;
-    
+    direction: rtl;   
+    font-size: 24px;
 }
-.nav-link{
-    
+
+.nav-link{   
     margin: 15px;
-} 
+}   
 .search{
     margin-right: 500px;
     display: flex; direction: ltr;
@@ -42,11 +41,14 @@
     border-radius: 20px;
 }
 
-h4{
+h3{
     text-align: center;
     font-family: 'Cairo', sans-serif;
      font-weight: bold;
      direction: rtl;
+     font-size: 40px;
+     display: flex;
+     justify-content: center;
 }
 .card-title{
     font-size: 28px;
@@ -103,15 +105,16 @@ h4{
     direction: rtl;
     word-spacing: 0px;
     padding-top: 900px;
+    font-size: 18px;
      
 }
 section{
-    padding: 20px;
+    padding: 1px;
     direction: rtl; 
     align-items: center;
-    
-    
+    text-decoration: none;
 }
+
 a{
     text-decoration: none;
     padding: 20px; 
