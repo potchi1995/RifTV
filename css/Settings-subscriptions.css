@@ -5,6 +5,7 @@
     font-weight: 900;
     font-family: 'Cairo', sans-serif;
     direction: rtl;   
+    font-size: 24px;
 }
 
 .nav-link{   
@@ -21,9 +22,14 @@
     margin: 20px;
     font-family: 'Cairo', sans-serif;
     direction: rtl;
-    word-spacing: 0px;
-     
+    font-size: 18px;  
+   
 }
+
+.search{
+    direction: ltr;
+}
+
 a{
     text-decoration: none;
     padding: 20px; 
@@ -31,3 +37,7 @@ a{
 .rox{
     padding: 20px;
 }
+
+.ltr {
+    @import "../node_modules/bootstrap/scss/bootstrap";
+    }
