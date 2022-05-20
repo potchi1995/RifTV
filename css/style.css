@@ -32,15 +32,6 @@ section{
     align-items: center;
 }
 
-.card{
-    padding: 15px;
-    display: flex;
-    text-align: right;
-    position: ltr;   
-    font-family: 'Cairo', sans-serif;
-    text-decoration: none;
-}
-
 .footer{
     text-align: center;
     margin: 20px;
@@ -70,8 +61,30 @@ p{
     font-family: 'Cairo', sans-serif;    
 }
 
+
 .card-text{
     font-size: 18px;
 }
 
+.cards-wrapper{
+    display: flex;
+}
 
+.card{
+    margin: 0 .5em;
+    width: calc(100%/4);
+    border: none;
+}
+
+.image-wrapper{
+    height: 16vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image-wrapper img{
+    max-width: 100%;
+    max-height: 100%;
+    
+}

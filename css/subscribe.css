@@ -1,17 +1,16 @@
-.nav{
-   
+.nav{  
     font-family: 'Cairo', sans-serif;
     text-align: center;
     align-items: center;
     font-weight: 900;
     font-family: 'Cairo', sans-serif;
-    direction: rtl;
-    
+    direction: rtl;   
+    font-size: 24px;
 }
-.nav-link{
-    
+
+.nav-link{   
     margin: 15px;
-} 
+}   
 .search{
     margin-right: 500px;
     display: flex; direction: ltr;
@@ -58,6 +57,7 @@ h1 {
     direction: rtl;
     word-spacing: 0px;
     padding-top: 500px;
+    font-size: 18px;
      
 }
 a{
@@ -101,30 +101,38 @@ h5{
     font-family: 'Cairo', sans-serif;
     justify-content: center;
     text-align: center;
-    margin: 30px;
+    margin: 50px;
     justify-items: center;
     display: flex;
     width: 450px;
     padding: 10px;
     font-size: large;
     font-weight: bold;
-    font-weight: 29px;
+    font-size: 29px;
     background-color: #000;
     color: white;
     border-color: #FF2564;
+    border-radius: 8px;
 }
 .btn2{
     font-family: 'Cairo', sans-serif;
     justify-content: center;
     text-align: center;
-    margin: 30px;
+    margin: 50px;
     justify-items: center;
     display: flex;
     width: 450px;
     padding: 10px;
     font-size: large;
     font-weight: bold;
-    font-weight: 29px;
+    font-size: 29px;
     background-color: #FF2564;
     color: #ffff;
+    border-radius: 8px;
 }
+
+.card-text{
+    font-size: 28px;
+    direction: rtl;
+}
+
